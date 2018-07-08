@@ -1,4 +1,4 @@
-package com.adamsmaga.apm;
+package org.adamsmaga.apm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

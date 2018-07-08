@@ -1,4 +1,4 @@
-package com.adamsmaga.apm;
+package org.adamsmaga.apm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
